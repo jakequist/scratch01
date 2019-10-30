@@ -2,5 +2,7 @@
 import numpy as np
 
 # This is a change from databricks. 
-print(np.dot(3,7))
 
+# This is another change from DB 
+
+print(np.dot(3,7))
