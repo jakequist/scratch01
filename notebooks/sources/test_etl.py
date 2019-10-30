@@ -1,5 +1,4 @@
 # Databricks notebook source
-import megazord
-mz = megazord.init(dbutils)
+import numpy as np
 
-print(mz.date)
+print(np.dot(3,7))
